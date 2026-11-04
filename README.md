@@ -62,15 +62,7 @@
 - [LLMにもEOLがある — モデルを依存ライブラリとして管理する](https://zenn.dev/stock_inc/articles/llm-model-eol-lifecycle-management)
 <!-- BLOG-POST-LIST:END -->
 
-### 七、道中の荷
-
-手前が背負うて歩いております、公開の品々にございます。
-
-- [stock-plus](https://github.com/Shunichi-Takeda/stock-plus) — Stock に機能を足す Chrome 拡張の道具一式
-- [Kaigi-Support-Chrome-Extension](https://github.com/Shunichi-Takeda/Kaigi-Support-Chrome-Extension) — Google カレンダーに、会議の次第書きを拵える窓を足す Chrome 拡張
-- [stock-inc-games](https://shunichi-takeda.github.io/stock-inc-games/) — 社内の手すさびにて拵えた HTML の遊び集
-
-### 八、文の宛先
+### 七、文の宛先
 
 - 瓦版（技術記事）: [zenn.dev/p/stock_inc](https://zenn.dev/p/stock_inc)
 - 店（会社）: [株式会社Stock](https://www.stock-inc.co.jp/)
