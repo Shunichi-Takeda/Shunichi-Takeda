@@ -37,11 +37,11 @@
 [Stock Tech Blog（Zenn）](https://zenn.dev/p/stock_inc) で、現場で踏んだ落とし穴と、その越え方を書いています。
 
 <!-- BLOG-POST-LIST:START -->
+- [パッチを当てられない側の脆弱性対応 — 共有サーバーのPHP重大脆弱性を、CDNの手前で止血した](https://zenn.dev/stock_inc/articles/shared-hosting-php-vuln-l7-stopgap)
 - [AIエージェントで「報告の手間ゼロ」のデイリーレポートを実現した話](https://zenn.dev/stock_inc/articles/ai-agent-daily-report-zero-overhead)
 - [AIエージェントが「見えない不具合」をどう見つけたか — PDFの透明テキストレイヤーを可視化で解決した話](https://zenn.dev/stock_inc/articles/ai-agent-invisible-ocr-debug)
 - [AI活用の知見をClaude内に閉じ込めない — Claude Codeと実Chromeを『相乗り』させる](https://zenn.dev/stock_inc/articles/claude-code-chrome-extension-web-output)
 - [LLMにもEOLがある — モデルを依存ライブラリとして管理する](https://zenn.dev/stock_inc/articles/llm-model-eol-lifecycle-management)
-- [スキャンPDFのOCRが「読めない」3つの理由 — エンジンを変えても直らない話](https://zenn.dev/stock_inc/articles/scanned-pdf-ocr-blind-spots)
 <!-- BLOG-POST-LIST:END -->
 
 ### 五、道中の荷（公開リポジトリ）
