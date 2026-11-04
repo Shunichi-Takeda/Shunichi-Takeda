@@ -1,0 +1,21 @@
+# 瓦版（技術記事）を Zenn の Publication フィードから週1回更新する
+name: Update Zenn posts
+
+on:
+  schedule:
+    - cron: "0 0 * * 3" # 毎週水曜 09:00 JST（記事の公開日に合わせる）
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://zenn.dev/p/stock_inc/feed"
+          max_post_count: 5
+          commit_message: "瓦版を更新"
