@@ -55,11 +55,11 @@
 [Stock Tech Blog（Zenn）](https://zenn.dev/p/stock_inc) にて、現場で踏み抜いた落とし穴と、その越え方を書き付けております。
 
 <!-- BLOG-POST-LIST:START -->
+- [AIは自我を持った — セキュリティインシデント急増を眺めながらの与太話](https://zenn.dev/stock_inc/articles/ai-self-awareness-fantasy)
+- [毎朝のセキュリティ確認をAIに任せたら、判定の基準が「人が動く必要があるか」に変わった](https://zenn.dev/stock_inc/articles/ai-daily-security-check-criteria)
 - [パッチを当てられない側の脆弱性対応 — 共有サーバーのPHP重大脆弱性を、CDNの手前で止血した](https://zenn.dev/stock_inc/articles/shared-hosting-php-vuln-l7-stopgap)
 - [AIエージェントで「報告の手間ゼロ」のデイリーレポートを実現した話](https://zenn.dev/stock_inc/articles/ai-agent-daily-report-zero-overhead)
 - [AIエージェントが「見えない不具合」をどう見つけたか — PDFの透明テキストレイヤーを可視化で解決した話](https://zenn.dev/stock_inc/articles/ai-agent-invisible-ocr-debug)
-- [AI活用の知見をClaude内に閉じ込めない — Claude Codeと実Chromeを『相乗り』させる](https://zenn.dev/stock_inc/articles/claude-code-chrome-extension-web-output)
-- [LLMにもEOLがある — モデルを依存ライブラリとして管理する](https://zenn.dev/stock_inc/articles/llm-model-eol-lifecycle-management)
 <!-- BLOG-POST-LIST:END -->
 
 ### 七、文の宛先
